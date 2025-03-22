@@ -1,0 +1,6 @@
+{
+    "plugins": ["playwright"],
+    "rules": {
+      "playwright/no-page-pause": "error"
+    }
+  }
